@@ -29,7 +29,7 @@
 
 <img src="resources/taylor-logo-black.png" alt="taylor logo" class="img-rounded">
 
-<ul class="nav-tabs navbar-right">
+<ul class="nav-tabs navbar-right"  >
  	<button type="button" class="btn btn-default navbar-btn">GET INFO</button>
 	<button type="button" class="btn btn-default navbar-btn">VISIT</button>
 	<button type="button" class="btn btn-default navbar-btn">APPLY</button>
