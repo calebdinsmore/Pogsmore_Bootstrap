@@ -1,0 +1,13 @@
+.menubar{background-color:#5A3358;} 
+
+.topDiv{
+background:linear-gradient(to bottom, #41253F 1%, #5A3358 51%, #41253F 100%)repeat scroll 0% 0% transparent;
+
+margin-bottom: -15px;
+}
+
+.topLogo{
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
