@@ -1,5 +1,4 @@
 
-
 .menubar {
 	background:linear-gradient(to bottom, #41253F 1%, #5A3358 51%, #41253F 100%)repeat scroll 0% 0% transparent;
 }
@@ -16,7 +15,18 @@ background:linear-gradient(to bottom, #41253F 1%, #5A3358 51%, #41253F 100%)repe
 
 }
 
+.topRightNav>li>a{
+    color: #b7a66d
+}
 
+.borderRight{
+    border-left: 1px solid #000000;
+}
+
+.borderLeft{
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+}
 
 .midStuff{
 background-color:#836D81;
@@ -27,4 +37,8 @@ background-color:#836D81;
 border-top: 4px solid #A8A0A5;
 border-bottom: 4px solid #A8A0A5;
 background: url('resources/promo-nav-bg.png') repeat-x scroll center top #FFF;
+}
+
+.footer{
+    background-color:#6d6e71;
 }
