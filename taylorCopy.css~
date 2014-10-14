@@ -25,6 +25,7 @@ background:linear-gradient(to bottom, #41253F 1%, #5A3358 51%, #41253F 100%)repe
 
 .borderLeft{
     border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
 }
 
 .midStuff{
@@ -40,4 +41,16 @@ background: url('resources/promo-nav-bg.png') repeat-x scroll center top #FFF;
 
 .footer{
     background-color:#6d6e71;
+}
+ .footer{
+    color:#ffffff;
+ }
+ 
+ .midBar{
+    font-size: 10px;
+ 
+ }
+ 
+.midbar>ul>li>a{
+   color:#5A3358;
 }

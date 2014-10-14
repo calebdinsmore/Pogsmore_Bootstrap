@@ -42,3 +42,13 @@ background: url('resources/promo-nav-bg.png') repeat-x scroll center top #FFF;
 .footer{
     background-color:#6d6e71;
 }
+ .footer{
+    color:#ffffff;
+ }
+ 
+ .midBar{
+    font-size: 10px;
+    color:#5A3358;
+ }
+ 
+
