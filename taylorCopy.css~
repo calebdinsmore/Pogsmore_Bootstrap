@@ -1,13 +1,26 @@
-.menubar{background-color:#5A3358;} 
+.menubar{
+background-color:#5A3358; 
+
+} 
+
+
+
+
+
 
 .topDiv{
 background:linear-gradient(to bottom, #41253F 1%, #5A3358 51%, #41253F 100%)repeat scroll 0% 0% transparent;
 
-margin-bottom: -20px;
 }
 
-.topLogo{
-	margin-top: 50px;
-	margin-left: 50px;
+
+
+.midStuff{
+background-color:#836D81;
+
 }
 
+.underMid{
+border: 4px solid #A8A0A5;
+background: url('resources/promo-nav-bg.png') repeat-x scroll center top #FFF;
+}
