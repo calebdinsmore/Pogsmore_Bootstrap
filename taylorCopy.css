@@ -1,11 +1,14 @@
-.menubar{
-background-color:#5A3358; 
-
-} 
 
 
+.menubar {
+	background:linear-gradient(to bottom, #41253F 1%, #5A3358 51%, #41253F 100%)repeat scroll 0% 0% transparent;
+}
 
 
+.myNav>li>a {
+	font-weight: bolder;
+	color: #FFFFFF;
+}
 
 
 .topDiv{
@@ -25,5 +28,3 @@ border-top: 4px solid #A8A0A5;
 border-bottom: 4px solid #A8A0A5;
 background: url('resources/promo-nav-bg.png') repeat-x scroll center top #FFF;
 }
-
-
